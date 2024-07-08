@@ -1,13 +1,9 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/base:alpine",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
      "options":{
         "version": "lts"
      }
-    },
-    "ghcr.io/nils-geistmann/devcontainers-features/zsh:0": {
-      "options":{}
     }
   }
 }
