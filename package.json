@@ -1,0 +1,32 @@
+{
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~51.0.18",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.3",
+    "gsap": "^1.20.4",
+    "three": "^0.91.0",
+    "expo-gl": "~14.0.2",
+    "three-bas": "^2.7.0",
+    "expo-asset": "~10.0.10",
+    "expo-three": "^6.1.0",
+    "@emotion/react": "*",
+    "@emotion/native": "*",
+    "expo-file-system": "~17.0.1",
+    "react-native-svg": "15.2.0",
+    "@expo/vector-icons": "^14.0.2",
+    "react-native-paper": "4.9.2",
+    "@react-native-picker/picker": "2.7.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
